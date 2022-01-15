@@ -1,0 +1,45 @@
+.up-title {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin: 4px;
+}
+
+#main-title {
+    font-size: 70px
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-width: 10px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 2%;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    text-align: justify;
+    text-align-last: center;
+    font-weight: 400px;
+    margin: 40px 80px 40px 80px;
+}
+
+div {
+    background-color: black;
+    color: white;
+}
+
+body {
+    margin: 15px;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    color:white;
+    margin: 25px 0px 0px 0px;
+}
